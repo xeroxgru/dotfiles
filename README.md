@@ -1,2 +1,4 @@
 # dotfiles
-linux setup dotfiles
+
+Linux/Unix Setup configs
+
